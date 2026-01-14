@@ -1,0 +1,11 @@
+openai-q
+agno
+google-generativeai
+ddgs
+python-dotenv
+requests
+google-api-python-client
+Pillow
+scrapegraph
+langchain
+openai
